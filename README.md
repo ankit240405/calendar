@@ -224,12 +224,6 @@ npm run build
 
 ---
 
-##  Demo
-
-👉 Add your Loom / YouTube link here
-
----
-
 ##  Live Demo 
 
 https://calendar-ria4-lovat.vercel.app/
